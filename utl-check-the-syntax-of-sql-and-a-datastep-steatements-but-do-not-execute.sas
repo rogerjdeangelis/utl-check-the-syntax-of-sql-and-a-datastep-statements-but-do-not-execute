@@ -10,7 +10,6 @@ Check the syntax of sql and a datastep but do not execute
 EXAMPLES
 ========
 
-
  1. Is the syntax valid (sql and datastep)
  -----------------------------------------
 
@@ -46,7 +45,6 @@ EXAMPLES
       NOTE: DATA statement used (Total process time):
             real time           0.00 seconds
             cpu time            0.00 seconds
-
 
 
  2. Examples suppressing output when syntax is valid or marginal(sql datastep)
